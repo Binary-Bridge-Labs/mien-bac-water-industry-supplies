@@ -3587,3 +3587,8 @@ freewheel.tv, 548888-r-524565, RESELLER
 freewheel.tv, 548888-r-523319, RESELLER
 freewheel.tv, sg1332502, RESELLER
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+#update 26/10/2026
+video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
+monetrix.ai, 10688, RESELLER
+onetag.com, 970b4089dd78c5f, RESELLER
+bluexad.ai, 1993610319863222272, RESELLER
